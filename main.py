@@ -3,17 +3,14 @@ import migration
 import time
 
 def main():
-    # Path ke file HTML lokal
+    # Path ke file 
     source_path = "file:///D:/Downloads/TA/Data/data/INDEX%20_%20ADMIN.htm"
     
-    # Tampilkan pesan bahwa scraping dimulai
     print(f"Memulai proses scraping dari {source_path}")
     start_time = time.time()
 
-    # Scrape data dari HTML
     data_list = scraper.scrape_data(source_path)
     
-    # Tampilkan hasil scraping
     if data_list:
         print(f"Scraping selesai, berhasil mengambil {len(data_list)} data.")
         # Migrasi data ke database
