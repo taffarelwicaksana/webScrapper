@@ -10,7 +10,7 @@ def scrape_data(source_path):
     data = []
 
     time.sleep(2)  
-    user_id_start = 124
+    user_id_start = 14
 
     try:
         rows = driver.find_elements(By.XPATH, '//table/tbody/tr')
