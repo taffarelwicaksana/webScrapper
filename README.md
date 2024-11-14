@@ -8,7 +8,7 @@ In the initial interface, the user is introduced to the *Card Shop* screen, wher
 
 ### Interface Overview
 
-1. ![Image 1 - Initial Card Shop Screen](path/to/image1.jpg)  
+1. ![Image 1 - Initial Card Shop Screen]([WhatsApp Image 2024-11-14 at 21.59.27_d1461319.jpg](https://github.com/taffarelwicaksana/webScrapper/blob/f3c60170ed52be112cdd19842c68ec57538ed18f/WhatsApp%20Image%202024-11-14%20at%2021.59.27_d1461319.jpg))  
    **Card Shop Overview**  
    The initial interface presents the *Card Shop*, where users can view available cards for purchase. Each card is displayed with a price in gold coins, which indicates the cost of adding it to the user's collection. The interface is designed with a simple, retro aesthetic that gives a nostalgic feel to the shopping experience. This screen also shows the user’s total gold balance at the top, helping them manage their purchases wisely.
 
