@@ -8,23 +8,25 @@ In the initial interface, the user is introduced to the *Card Shop* screen, wher
 
 ### Interface Overview
 
-1. ![Image 1 - Initial Card Shop Screen]([WhatsApp Image 2024-11-14 at 21.59.27_d1461319.jpg](https://github.com/taffarelwicaksana/webScrapper/blob/f3c60170ed52be112cdd19842c68ec57538ed18f/WhatsApp%20Image%202024-11-14%20at%2021.59.27_d1461319.jpg))  
-   **Card Shop Overview**  
+1. **Card Shop Overview**  
+
+![WhatsApp Image 2024-11-14 at 21 59 27_b0952c8b](https://github.com/user-attachments/assets/b60ee7c5-f804-4476-8583-3be21c11a1be)
+
    The initial interface presents the *Card Shop*, where users can view available cards for purchase. Each card is displayed with a price in gold coins, which indicates the cost of adding it to the user's collection. The interface is designed with a simple, retro aesthetic that gives a nostalgic feel to the shopping experience. This screen also shows the user’s total gold balance at the top, helping them manage their purchases wisely.
 
-2. ![Image 2 - Card Details](path/to/image2.jpg)  
+3. ![Image 2 - Card Details](path/to/image2.jpg)  
    **Viewing Card Details**  
    To get more information about each card, such as its abilities, features, or description, the user can hover their mouse over the card. This action reveals additional details, allowing the user to make informed decisions on which cards to purchase based on their gameplay strategy. Each card has unique attributes, and the hover feature provides a quick glimpse into these attributes without leaving the main shop screen.
 
-3. ![Image 3 - Purchase Indicator](path/to/image3.jpg)  
+4. ![Image 3 - Purchase Indicator](path/to/image3.jpg)  
    **Purchase Success or Failure Feedback**  
    When a user attempts to purchase a card, a notification message appears to indicate whether the purchase was successful or unsuccessful. This feedback helps users keep track of their purchases and provides confirmation that the transaction was processed. If the purchase fails, it might be due to insufficient funds, and the user will be alerted accordingly to avoid confusion.
 
-4. ![Image 4 - Card Inventory](path/to/image4.jpg)  
+5. ![Image 4 - Card Inventory](path/to/image4.jpg)  
    **Storing Cards in Inventory**  
    After purchasing, the card is stored in the user's *inventory*, located within the *deck* section. This is the area where all acquired cards are initially placed before they are activated. Users can organize their cards here and, if needed, sell them by right-clicking on the card and selecting the *sell* option. This feature provides flexibility for users to manage their card collection and make adjustments based on their current needs or game strategy.
 
-5. ![Image 5 - Card Activation](path/to/image5.jpg)  
+6. ![Image 5 - Card Activation](path/to/image5.jpg)  
    **Activating and Organizing Cards in the Deck**  
    To activate a card for gameplay, users can drag the desired card from the *inventory* section into the *deck* section. This action adds the card to their active deck, making it available for use in the game. If the user wishes to hide the contents of their *deck* and *inventory*, they can close the interface by clicking the button located in the upper right corner. This organization feature allows users to customize their deck efficiently and maintain a clutter-free interface.
 
